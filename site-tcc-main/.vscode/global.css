@@ -1,0 +1,344 @@
+/* Header */
+@media screen and (max-width: 1368px) {
+    .navbar-nav {
+        margin: auto !important;
+        margin-left: 29.5% !important;
+
+    }
+}
+
+/* mobile */
+
+@media screen and (max-width: 900px) {
+    #carouselExampleInterval {
+        margin-top: 11% !important;
+    }
+
+    .fontesdocard {
+        font-size: 15px !important;
+    }
+
+    .btn {
+        font-size: 15px !important;
+    }
+
+    #video_canva {
+        width: 395px !important;
+        height: 253px !important;
+    }
+
+    #area_video {
+        display: block !important;
+    }
+
+    .cards {
+        display: block !important;
+        text-align: center !important;
+        margin-left: 30% !important;
+        width: 40% !important;
+    }
+
+    .navbar-nav {
+        margin-right: 45% !important;
+        margin-top: 5% !important;
+    }
+
+    .nav-link {
+        padding: 0px !important;
+    }
+
+    .nav-fonts {
+        margin-left: 63% !important;
+        font-size: 15px !important;
+    }
+
+    .lelele {
+        margin-left: -1% !important;
+    }
+
+    .areaconta {
+        margin-left: 10% !important;
+    }
+
+    .seusdesigns {
+        font-size: 18px !important;
+        color: white !important;
+        margin-left: 37% !important;
+        margin-bottom: 3% !important;
+
+    }
+
+    .textonav {
+        font-size: 17px !important;
+    }
+
+    #logo {
+        display: none !important;
+    }
+
+    .navbar-toggler {
+        margin-left: 45% !important;
+    }
+
+    .background {
+        margin-top: 20px !important;
+    }
+
+    .home {
+        display: inline-block !important;
+    }
+
+    .nav-fonts {
+        margin-right: 50% !important;
+        text-align: center !important;
+        padding-top: 0px !important;
+    }
+
+    #submenu {
+        margin-left: 0%;
+    }
+
+    .nav-fonts-mbl {
+        margin-top: 4px !important;
+        margin-bottom: 4px !important;
+        font-size: 17px !important;
+    }
+
+    #submenu li a {
+        padding: 0px !important;
+    }
+
+    #inst1 {
+        display: none !important;
+    }
+
+    #inst2 {
+        display: block !important;
+    }
+
+    .divisoria {
+        width: 54%;
+        height: 3px;
+        background-color: white;
+    }
+}
+
+/* Mobile */
+
+.navbar-nav {
+    margin-left: 36.5%;
+}
+
+.textonav {
+    font-size: 27px;
+    color: white;
+}
+
+.textonav:hover {
+    color: #f6d204;
+}
+
+
+.areaconta {
+    margin-right: 5%;
+}
+
+.seusdesigns:hover {
+    color: #f6d204;
+}
+
+.seusdesigns {
+    font-size: 28px;
+    color: white;
+    margin-right: 1%;
+    margin-bottom: 3%;
+}
+
+.nav-fonts {
+    color: white;
+    font-weight: bolder;
+    font-size: 25px;
+    padding-top: 27px;
+}
+
+#carouselExampleInterval {
+    margin-top: 8.2%;
+}
+
+
+#fileira1_cards {
+    display: block;
+    text-align: center;
+}
+
+#fileira2_cards {
+    display: block;
+    text-align: center;
+}
+
+.imagens_cards {
+    padding: 5%;
+    border-radius: 10%;
+}
+
+.cards {
+    text-align: center;
+    margin: 1%;
+    display: inline-block;
+    width: 20%;
+}
+
+.canva_text {
+    margin-bottom: 30px;
+}
+
+#area_video {
+    display: flex;
+    justify-content: center;
+}
+
+.card_canva {
+    text-align: center;
+    margin-left: 1%;
+    display: inline-block;
+    width: 15%;
+
+}
+
+.area_forms {
+    margin: auto;
+    width: 30%;
+}
+
+#inst2 {
+    display: none;
+}
+
+.home {
+    display: none;
+}
+
+.inst {
+    left: -12% !important;
+}
+
+
+.inst-txt {
+    padding: 7px;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+
+#logo {
+    padding: 0px;
+}
+
+.nav-fonts:hover {
+    color: #d19341;
+    transition: 0.2s;
+}
+
+.btn-floating {
+    width: 4.3125rem;
+    height: 4.3125rem;
+}
+
+.btn-floating .fab,
+.btn-floating .far,
+.btn-floating .fas {
+    width: 4.3125rem;
+    line-height: 4.3125rem;
+}
+
+.btn {
+    font-size: 1.5rem;
+}
+
+.botoes_mapa {
+    display: flex;
+    justify-content: center;
+}
+
+.area_icones {
+    margin-bottom: 0.5cm;
+}
+
+.areasocial {
+    margin-bottom: 20px;
+}
+
+/* Header */
+
+
+/* Footer */
+
+#etec_logo {
+    width: 20%;
+    margin-bottom: 20px;
+}
+
+#copyrigth {
+    margin: 0px;
+}
+
+/* -- Footer -- */
+
+.p-4 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+
+/* Modal */
+
+.btn-modal {
+    border-radius: 30px;
+    font-size: 21px;
+}
+
+.btn-modal:hover {
+    color: white;
+    background-color: #d19341;
+
+    transition: 0.3s;
+}
+
+
+/* Modal */
+
+
+
+
+/* Para todas as pags */
+
+/* Mobile */
+
+@media screen and (max-width: 900px) {
+    .maps {
+        width: 100% !important;
+    }
+
+}
+
+/* Mobile */
+
+.bg-light {
+    background-color: rgba(226, 226, 226, 0.37) !important;
+}
+
+.titulo {
+    margin-top: 60px;
+    margin-bottom: 30px;
+
+}
+
+main {
+    margin-bottom: 60px;
+
+}
+
+
+
+
+/* Para todas as pags */

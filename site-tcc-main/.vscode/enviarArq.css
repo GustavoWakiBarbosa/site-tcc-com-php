@@ -1,0 +1,15 @@
+.conteudo {
+    margin-top: 9%;
+}
+
+.botoes {
+    background-color: white; 
+
+}
+
+.textos {
+    color: #da9841;
+}
+.carroselIMG{
+    float: left; margin-left:8%; margin-top:20px;
+}
